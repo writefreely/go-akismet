@@ -1,5 +1,5 @@
 /*
-The akismet package provides a client for using the Akismet API.
+Package akismet provides a client for using the Akismet API.
 
 Usage:
 
