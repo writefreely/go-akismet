@@ -4,7 +4,7 @@ import (
 	"errors"
 )
 
-// This function checks whether a particular Comment is spam or not by querying
+// Check checks whether a particular Comment is spam or not by querying
 // the Akismet API. The returned boolean is true if the comment was classified
 // as spam, false otherwise. If the request failed for whatever reason, the
 // error returned will be non-nil.
