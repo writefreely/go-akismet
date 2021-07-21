@@ -1,13 +1,13 @@
 # go-akismet
 
-[![GoDoc](https://godoc.org/github.com/adtac/go-akismet/github?status.svg)](https://godoc.org/github.com/adtac/go-akismet)
+[![GoDoc](https://godoc.org/github.com/writefreely/go-akismet/github?status.svg)](https://godoc.org/github.com/writefreely/go-akismet)
 
 go-akismet is a Go client library for accessing the [Akismet API](https://akismet.com/development/api/) (v1.1).
 
 ### Usage
 
 ```go
-import "github.com/adtac/go-akismet/akismet"
+import "github.com/writefreely/go-akismet/akismet"
 ```
 
 Here's an example if you want to check whether a particular comment is spam or not using the `akismet.Check` method:
@@ -41,7 +41,7 @@ Both methods have the same method signature as the `akismet.Check` function: an
 
 #### Contributing
 
-Patches welcome! This library was primarily developed for use in [Commento](https://github.com/adtac/commento), so priority of features and bug fixes from me will probably follow requirements there.
+We welcome all contributions! We intend to maintain this library, particularly for use in [WriteFreely](https://github.com/writefreely/writefreely). 
 
 #### Testing
 
