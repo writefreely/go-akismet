@@ -1,6 +1,6 @@
 # go-akismet
 
-[![GoDoc](https://godoc.org/github.com/writefreely/go-akismet/github?status.svg)](https://godoc.org/github.com/writefreely/go-akismet)
+[![Go Reference](https://pkg.go.dev/badge/github.com/writefreely/go-akismet.svg)](https://pkg.go.dev/github.com/writefreely/go-akismet)
 
 go-akismet is a Go client library for accessing the [Akismet API](https://akismet.com/development/api/) (v1.1).
 
